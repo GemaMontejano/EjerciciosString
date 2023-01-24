@@ -1,0 +1,4 @@
+//7.Dado el string "Hello World", convertir el string a mayúsculas y luego a minusculas
+const saludo = 'hello World';
+console.log(saludo.toUpperCase(saludo));
+console.log(saludo.toLowerCase(saludo));
