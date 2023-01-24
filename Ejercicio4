@@ -1,0 +1,3 @@
+//4. Devolver la longitud de un string
+const serie = 'As56gfd';
+console.log(serie.length);
