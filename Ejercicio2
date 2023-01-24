@@ -1,0 +1,3 @@
+//2. Convertir un string a mayúsculas:
+const serie = 'As56gfd';
+console.log(serie.toUpperCase(serie));
