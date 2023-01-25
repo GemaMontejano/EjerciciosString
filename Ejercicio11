@@ -1,0 +1,3 @@
+//11. Dividir un string en un array según un separador:
+const saludo = "Hola, bienvenido";
+console.log(saludo.split(','));
