@@ -1,0 +1,3 @@
+//10. Verificar si un string comienza con una palabra específica
+const saludo = 'Hello World';
+console.log(saludo.includes('Hello'));
