@@ -1,0 +1,3 @@
+//12.Reemplazar una palabra en un string:
+const frase = 'Me encanta nadar en la piscina';
+console.log(frase.replace('la piscina', 'el mar'));
