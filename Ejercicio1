@@ -1,3 +1,5 @@
 //1. Revertir un string:
-const serie = 'As56gfd';
-console.log(serie.reverse(serie));
+let serie = 'As56gfd';
+serie = [...serie].reverse();
+console.log(serie);
+
