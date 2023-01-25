@@ -1,3 +1,4 @@
 //6.Dado el string "Hello World", separar el string en dos partes usando el espacio como separador.
-const saludo= "Hello, World";
-console.log(saludo.split(','));
+const saludo = "Hello World";
+console.log(saludo.split(' '));
+
