@@ -1,0 +1,3 @@
+//5. Reemplazar un substring en un string:
+const saludo = 'Hola, tu clave para acceder es (1234)';
+console.log(saludo.replace('1234', '9876'));
