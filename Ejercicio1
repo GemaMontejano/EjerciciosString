@@ -1,5 +1,6 @@
 //1. Revertir un string:
 let serie = 'As56gfd';
+console.log(serie.trim(serie));
+console.log(serie.includes(' '));
 serie = [...serie].reverse();
 console.log(serie);
-
